@@ -1,4 +1,4 @@
-# Halcyon Lab — 인터랙티브 · 제너러티브 스튜디오
+# Halcyon Lab — 인터랙티브 · 제너레이티브 스튜디오
 
 Portfolio Maker로 만든 정적 사이트입니다. **빌드 도구가 필요 없습니다.**
 
