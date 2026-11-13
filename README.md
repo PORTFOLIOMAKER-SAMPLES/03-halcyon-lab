@@ -1,6 +1,6 @@
-# Halcyon Lab — 인터랙티브 · 제너레이티브 스튜디오
+# 오현석 · 사진작가
 
-Portfolio Maker로 만든 정적 사이트입니다. **빌드 도구가 필요 없습니다.**
+포메(Portfolio Maker)로 만든 정적 사이트입니다. **빌드 도구가 필요 없습니다.**
 
 ## 열기
 
@@ -15,9 +15,10 @@ python -m http.server 5500
 
 ## 페이지
 
-- `index.html` — Home
-- `lab.html` — Lab
-- `contact.html` — Contact
+- `index.html` — 홈
+- `작업.html` — 작업
+- `촬영-안내.html` — 촬영 안내
+- `문의.html` — 문의
 
 ## 구조
 
@@ -25,7 +26,7 @@ python -m http.server 5500
 index.html 등        페이지마다 한 장
 assets/site.css      레이아웃 · 테마 · 파트 스타일
 assets/init.js       3D 효과 마운트
-effects/             효과 팩 (_core · tilt-card · spotlight · parallax-layers · hover-preview · scroll-reveal · model-showcase · magnetic-button · smooth-scroll)
+effects/             효과 팩 (_core · model-showcase)
 ```
 
 ## 고치는 법
